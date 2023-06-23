@@ -1,5 +1,5 @@
 ;;; TP03 IA01
-;;; Marie Guigon - William Schenten
+;;; Marie Guigon - William Schenten 
 
 ;;---------------------------------------------BASE ATTRACTIONS---------------------------------------------
 (setq *ATTRACTIONS* NIL)
